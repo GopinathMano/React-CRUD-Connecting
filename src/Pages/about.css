@@ -1,0 +1,8 @@
+.mycard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #a9e4d7;
+  padding: 30px 0;
+}

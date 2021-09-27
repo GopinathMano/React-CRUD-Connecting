@@ -1,0 +1,7 @@
+.link {
+  color: rgb(128, 128, 128);
+  text-decoration: none;
+}
+.selected {
+  color: white;
+}

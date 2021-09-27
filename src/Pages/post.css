@@ -1,0 +1,87 @@
+.cardContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.card1 {
+  width: 60rem;
+  padding: 7px;
+  background-color: rgb(248, 237, 237);
+  margin-top: 0.5rem;
+  border-radius: 10px;
+}
+.cardHeader {
+  display: flex;
+  flex-direction: row;
+}
+.title {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+}
+
+.topButtons {
+  position: relative;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-right: 0.5rem;
+}
+.topButtons Button {
+  width: 7rem;
+}
+.cardBody {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.body {
+  padding: 10px;
+}
+.comment {
+  width: 100%;
+}
+.form {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+}
+.formContainer {
+  background-color: #d2c448;
+  border-radius: 20px;
+  width: 50%;
+  margin-top: 1rem;
+  margin-left: 25%;
+  padding: 0 35px;
+}
+.midd {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 90px;
+}
+
+.link1 {
+  background-color: rgb(224, 221, 16);
+  text-decoration: none;
+  color: white;
+  height: 2rem;
+  width: 30%;
+  text-align: center;
+  border-radius: 10px;
+}
+.btn {
+  margin: 10px 0;
+}
+
+#wrapper {
+  display: flex;
+  justify-content: center;
+}
