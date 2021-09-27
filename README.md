@@ -1,8 +1,3 @@
-## Postgram
-#### [link](https://mayu-react-postgram.netlify.app/)
+## React-ConnectingApp
+#### [link](https://silly-poincare-4f7fc7.netlify.app/)
 
-React application build using
-- React-bootstrap
-- React-icons
-- axios library
-- react-router-dom
